@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0cdGv9/1BEioRrhaCCTLnL8Db2CQjzGTOPc/c0HkU4lWek8UZO6f252mrf5qGrWOTQDV5A28GEfDvaggNX5AbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faria\\Documents\\MATERIAS ISI\\SEGUNDO AÑO\\Programación 2\\Aurasoft\\TP3\\TP3-TESTEO\\TP3AURASOFT\\TP3AURASOFT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faria\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\faria\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\faria\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512",
+    "C:\\Users\\faria\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

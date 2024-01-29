@@ -1,0 +1,177 @@
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\Admin\Documents\facultad\2do año\2do Cuatrimestre\Programacion II\Clases 2023\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT Clases y Evaluaciones\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT V.1.0\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\Mi PC\Desktop\Clases\2do\2do cuat\prog II\tp3\TP3AURASOFT - 20-10\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3AURASOFT 23 10\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-23-10-23-10AM\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\LKS\Downloads\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.exe
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.deps.json
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.runtimeconfig.json
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\bin\Debug\net6.0\LibreriaAURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.AssemblyReference.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfoInputs.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.AssemblyInfo.cs
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CoreCompileInputs.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.csproj.CopyComplete
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\refint\TP3AURASOFT.dll
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.pdb
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\TP3AURASOFT.genruntimeconfig.cache
+C:\Users\faria\Documents\MATERIAS ISI\SEGUNDO AÑO\Programación 2\Aurasoft\TP3\TP3-Testeo\TP3AURASOFT\obj\Debug\net6.0\ref\TP3AURASOFT.dll

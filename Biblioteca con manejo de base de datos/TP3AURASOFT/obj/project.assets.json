@@ -1,0 +1,206 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SQLitePCLRaw.core/2.1.6": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        }
+      },
+      "Stub.System.Data.SQLite.Core.NetStandard/1.0.118": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "related": ".dll.altconfig;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "related": ".dll.altconfig;.xml"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
+      "System.Data.SQLite.Core/1.0.118": {
+        "type": "package",
+        "dependencies": {
+          "Stub.System.Data.SQLite.Core.NetStandard": "[1.0.118]"
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SQLitePCLRaw.core/2.1.6": {
+      "sha512": "wO6v9GeMx9CUngAet8hbO7xdm+M42p1XeJq47ogyRoYSvNSp0NGLI+MgC0bhrMk9C17MTVFlLiN6ylyExLCc5w==",
+      "type": "package",
+      "path": "sqlitepclraw.core/2.1.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SQLitePCLRaw.core.dll",
+        "sqlitepclraw.core.2.1.6.nupkg.sha512",
+        "sqlitepclraw.core.nuspec"
+      ]
+    },
+    "Stub.System.Data.SQLite.Core.NetStandard/1.0.118": {
+      "sha512": "4TS8IZvDj0ud6utxfXI6zv9Ditk4U9Kt9KqLyAIQGcU3GXp5oGBHgGZifq+APcqRCayuN/MSE8t9ZZmygtU28A==",
+      "type": "package",
+      "path": "stub.system.data.sqlite.core.netstandard/1.0.118",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/System.Data.SQLite.dll",
+        "lib/netstandard2.0/System.Data.SQLite.dll.altconfig",
+        "lib/netstandard2.0/System.Data.SQLite.xml",
+        "lib/netstandard2.1/System.Data.SQLite.dll",
+        "lib/netstandard2.1/System.Data.SQLite.dll.altconfig",
+        "lib/netstandard2.1/System.Data.SQLite.xml",
+        "runtimes/linux-x64/native/SQLite.Interop.dll",
+        "runtimes/osx-x64/native/SQLite.Interop.dll",
+        "runtimes/win-x64/native/SQLite.Interop.dll",
+        "runtimes/win-x86/native/SQLite.Interop.dll",
+        "stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+        "stub.system.data.sqlite.core.netstandard.nuspec"
+      ]
+    },
+    "System.Data.SQLite.Core/1.0.118": {
+      "sha512": "2V1PsfBeqWlZxF/VtB8lQKPfDBayCU8zD5Xc3Mq7cILOa2ZqpPDSwMP0fTfk1gtGSStSk//DxKiGy6zwCQs7Uw==",
+      "type": "package",
+      "path": "system.data.sqlite.core/1.0.118",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "system.data.sqlite.core.1.0.118.nupkg.sha512",
+        "system.data.sqlite.core.nuspec"
+      ]
+    },
+    "System.Memory/4.5.3": {
+      "sha512": "3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "type": "package",
+      "path": "system.memory/4.5.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.1/System.Memory.dll",
+        "lib/netstandard1.1/System.Memory.xml",
+        "lib/netstandard2.0/System.Memory.dll",
+        "lib/netstandard2.0/System.Memory.xml",
+        "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.3.nupkg.sha512",
+        "system.memory.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SQLitePCLRaw.core >= 2.1.6",
+      "System.Data.SQLite.Core >= 1.0.118"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\faria\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\faria\\Documents\\MATERIAS ISI\\SEGUNDO AÑO\\Programación 2\\Aurasoft\\TP3\\TP3-Testeo\\TP3AURASOFT\\TP3AURASOFT.csproj",
+      "projectName": "TP3AURASOFT",
+      "projectPath": "C:\\Users\\faria\\Documents\\MATERIAS ISI\\SEGUNDO AÑO\\Programación 2\\Aurasoft\\TP3\\TP3-Testeo\\TP3AURASOFT\\TP3AURASOFT.csproj",
+      "packagesPath": "C:\\Users\\faria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\faria\\Documents\\MATERIAS ISI\\SEGUNDO AÑO\\Programación 2\\Aurasoft\\TP3\\TP3-Testeo\\TP3AURASOFT\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\faria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "SQLitePCLRaw.core": {
+            "target": "Package",
+            "version": "[2.1.6, )"
+          },
+          "System.Data.SQLite.Core": {
+            "target": "Package",
+            "version": "[1.0.118, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
