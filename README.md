@@ -1,1 +1,1 @@
-# Aplication-with-C-.
+These are some works that I did for the university, they are done in C#, there are two that are applications with a database included, one is the hotel and the other is the library, I upload them to show programming skills, I did not translate them into English because I am not interested in the area of c# or application development, but they are very complex projects with many hours of work invested.
